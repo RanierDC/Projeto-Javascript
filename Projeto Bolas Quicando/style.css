@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "titu";
+  src: url(full\ Pack\ 2025.ttf);
+}
+
+html, body {
+  margin: 0;
+}
+
+html {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+  height: inherit;
+}
+
+h1 {
+  padding-top: 15px;
+  text-align: center;
+  font-family: titu;
+  font-size: 50px;
+}
